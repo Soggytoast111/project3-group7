@@ -1,5 +1,6 @@
 # "Bach to Basics” 🎹
 
+(*Note - This is Jon Curto's fork for doing cleanup and updates in preparation for a career demonstration.  Thanks Sarah, Kevin and Danielle for all the hard work they poured into this.  No matter where I take this, I will make sure to always credit them - this is theirs as much as mine.)
 
 <p align="center">
 (https://bach2basics.herokuapp.com/)
